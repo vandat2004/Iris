@@ -53,3 +53,6 @@ Nhấn nút Dự đoán.
 
 Hệ thống xử lý dữ liệu, chạy mô hình KNN và trả về kết quả ngay lập tức:
 👉 Ví dụ: “Loài hoa dự đoán: Iris-versicolor”.
+
+<img width="330" height="361" alt="{247E370C-560F-4EAF-8155-B82ACC2F108C}" src="https://github.com/user-attachments/assets/f84c173f-a8e6-4ced-abe3-70b28a6b8b10" />
+
